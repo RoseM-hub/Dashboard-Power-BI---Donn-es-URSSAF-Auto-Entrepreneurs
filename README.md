@@ -1,4 +1,7 @@
-Analyse des données URSSAF sur les Auto-Entrepreneurs (2009-2024)
+<h1 align="center">📊 Analyse des données URSSAF sur les Auto-Entrepreneurs (2009-2024)</h1>
+<em align="center">Évolution, chiffres clés et tendances par secteur</em>
+
+
 
 #  Description
 Ce projet présente une exploration des données officielles de l’URSSAF sur les auto-entrepreneurs en France, couvrant la période 2009 à 2024.  
@@ -33,22 +36,20 @@ Ce projet présente une exploration des données officielles de l’URSSAF sur l
 # Aperçu du Dashboard
 
 ## Vue globale et indicateurs principaux
-![Dashboard Vue 1](images/dashboard1.png)
+![Dashboard Vue 1](images/01-vue%20gbolabe%20et%20indicateurs%20principaux.png)
 
 ## Chiffre d'affaires et immatriculations par secteur
-![Dashboard Vue 2](images/dashboard2.png)
+![Répartition du chiffre d'affaire](images/02-repartition%20du%20chiffre%20d'affaire.png)
+![Chiffre d'affaire et immatriculations par secteurs](images/03-chiffre%20d'affaire%20et%20immatriculation%20par%20secteurs.png)
 
-## Répartition des auto-entrepreneurs actifs
-![Dashboard Vue 3](images/dashboard3.png)
+## Immatriculations vs radiations , économiquement actifs vs administrativement actifs
 
-##  Contenu du dépôt
+![Immatriculations vs radiations, actifs économiquement vs administrativement - 1](images/04-Immatriculations%20vs%20radiations,%20actifs%20economiquement%20vs%20administrativement.png)
+
+![Immatriculations vs radiations, actifs économiquement vs administrativement - 2](images/05-Immatriculations%20vs%20radiations,%20actifs%20economiquement%20vs%20administrativement.png)
+
+
+#  Contenu du dépôt
 - `/images` : captures d’écran du dashboard.
-- `README.md` : description et analyse des résultats.
-- *(Optionnel)* `dashboard.pbix` : fichier Power BI pour réutiliser ou adapter l’analyse.
-
-#  Utilisation
-Pour explorer ou reproduire l’analyse :
-1. Télécharger le fichier `.pbix` (si disponible).
-2. Ouvrir avec **Power BI Desktop**.
-3. Importer les données URSSAF ou mettre à jour les sources.
+- `README.md` : description et indicateurs clés.
 
